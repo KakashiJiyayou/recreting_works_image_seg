@@ -1,6 +1,6 @@
 # Image Segmentation Research Repository
 
-A comprehensive collection of reproduced state-of-the-art image segmentation papers and implementations, conducted as part of ongoing research at Hong Kong Metropolitan University (HKMU).
+A comprehensive collection of reproduced state-of-the-art image segmentation papers and implementations, conducted as part of ongoing research at ****Hong Kong Metropolitan University (HKMU)****.
 
 ## 📚 Overview
 
